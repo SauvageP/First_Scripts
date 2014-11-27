@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="a3abd382-5799-4025-8820-c7e7bc60edaa">
+  <component name="PublishConfigData" serverName="CloudPlug" stopOnFirstError="true" uploadOnCheckin="a3abd382-5799-4025-8820-c7e7bc60edaa">
+    <serverData>
+      <paths name="CloudPlug">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Python Code/First_Scripts" local="$PROJECT_DIR$" web="/Python Code/First_Scripts" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
     <option name="myUploadOnCheckinName" value="CloudPlug" />
   </component>
 </project>
